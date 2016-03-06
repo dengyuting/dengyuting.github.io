@@ -1,0 +1,33 @@
+.background {
+  background-image: url("../figures/background.jpg");
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.eva-docs-nav {
+  background:rgba(200, 200, 200, 0.8);
+}
+
+.eva-docs-nav, .eva-docs-nav .navbar-nav > li > a {
+  color: #563d7c;
+  font-size: 18px;
+}
+
+.eva-docs-brand {
+  color: #563d7c;
+  font-size: 20px;
+}
+
+.eva-docs-footer {
+    color: #99979c;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+footer {
+  background-color: rgba(200, 200, 200, 0.8);
+}
