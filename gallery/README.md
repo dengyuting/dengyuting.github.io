@@ -74,7 +74,7 @@ webpage:
 Include the following scripts at the bottom of the body of your webpage:
 
 ```html
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/jquery/jquery.min.js"></script>
 <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
 <script src="js/bootstrap-image-gallery.min.js"></script>
 ```
